@@ -1,0 +1,26 @@
+.sorry-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: (1,0,0,0,);
+}
+
+#sorry-text {
+    font-size: 48px;
+    font-weight: bold;
+    color: (0,0,0,1);
+    animation: sorry-animation 5s infinite;
+}
+
+@keyframes sorry-animation {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
