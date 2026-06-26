@@ -7,6 +7,9 @@
 </a>
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=2500&pause=800&color=3FB950&background=0D1117&center=true&vCenter=true&width=600&lines=root%40kali%3A~%23+nmap+-sV+target;Scanning+ports...;Access+Granted;Always+Learning.+Always+Building." />
+</p>
 ---
 
 ### 🚀 About Me
