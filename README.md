@@ -18,3 +18,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Yogeswari B</h1>
+<h3 align="center">A passionate developer and cybersecurity enthusiast</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Developer;Always+Learning+New+Things;Open+to+Collaboration)](https://git.io/typing-svg)
+
+
+![snake gif](https://raw.githubusercontent.com/Yoges19/Yoges19/output/github-contribution-grid-snake.svg)
+
