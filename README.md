@@ -11,13 +11,6 @@
 </p>
 ---
 
-### 🚀 About Me
-
--  Just exploring the new Technologies
--  Having fun with software applications
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
