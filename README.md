@@ -21,7 +21,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,java,mysql,linux,docker,kubernetes,git,github,bash" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nextjs,java,mysql,linux,docker,git,github,c" />
 </p>
 
 **DevOps & Tools:** Docker · Kubernetes · Kestra · Linux · YAML
